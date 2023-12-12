@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-27T01:04:20 EDT" name="Default suite" finished-at="2023-07-27T01:04:29 EDT" duration-ms="9077">
+    <groups>
+    </groups>
+    <test started-at="2023-07-27T01:04:20 EDT" name="Default test" finished-at="2023-07-27T01:04:29 EDT" duration-ms="9077">
+      <class name="com.ToolsQa.Qa.Tests.ToolsQAElementPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.ToolsQa.Qa.Tests.ToolsQAElementPageTest@7a24eb3]" started-at="2023-07-27T01:04:20 EDT" name="SetUp" finished-at="2023-07-27T01:04:27 EDT" duration-ms="6964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="ElementClickTest()[pri:1, instance:com.ToolsQa.Qa.Tests.ToolsQAElementPageTest@7a24eb3]" started-at="2023-07-27T01:04:27 EDT" name="ElementClickTest" finished-at="2023-07-27T01:04:28 EDT" duration-ms="1281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementClickTest -->
+        <test-method is-config="true" signature="EndOfMethod()[pri:0, instance:com.ToolsQa.Qa.Tests.ToolsQAElementPageTest@7a24eb3]" started-at="2023-07-27T01:04:28 EDT" name="EndOfMethod" finished-at="2023-07-27T01:04:28 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndOfMethod -->
+        <test-method signature="ElementWebTablePageTest()[pri:2, instance:com.ToolsQa.Qa.Tests.ToolsQAElementPageTest@7a24eb3]" started-at="2023-07-27T01:04:29 EDT" name="ElementWebTablePageTest" finished-at="2023-07-27T01:04:29 EDT" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementWebTablePageTest -->
+        <test-method is-config="true" signature="EndOfMethod()[pri:0, instance:com.ToolsQa.Qa.Tests.ToolsQAElementPageTest@7a24eb3]" started-at="2023-07-27T01:04:29 EDT" name="EndOfMethod" finished-at="2023-07-27T01:04:29 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndOfMethod -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:com.ToolsQa.Qa.Tests.ToolsQAElementPageTest@7a24eb3]" started-at="2023-07-27T01:04:29 EDT" name="closing" finished-at="2023-07-27T01:04:29 EDT" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- com.ToolsQa.Qa.Tests.ToolsQAElementPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
